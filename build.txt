@@ -1,0 +1,3 @@
+displayName = Jenny's Insanity 1.4
+author = squeakycube
+version = 0.1
